@@ -42,7 +42,7 @@ Sigo el principio de aprender continuamente y aplicar ese conocimiento para mejo
 - 🏅 Grado Superior de actividades fisico deportivas en IES Bendinat.
 
 ## Meta Actual
-Mi meta es trabajar como desarrollador web o de aplicaciones y eventualmente llegar a ser el jefe de mi propia empresa.
+Mi meta es trabajar como desarrollador web o de aplicaciones y en un futuro poder tener mi empresa de Software.
 
 ## Agradecimiento
 Gracias por tomarte el tiempo para conocerme. ¡Siempre aprecio la oportunidad de conectar y aprender de otros!
