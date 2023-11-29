@@ -4,7 +4,7 @@
 
 ## Acerca de mí
 - 📍 **Ubicación:** Palma, Mallorca
-- 📚 **Educación:** Estudiante de DAM en el CIDE
+- 📚 **Educación:** Estudiante de Grado Superior (DAM) en el CIDE
 
 ## Sobre mí
 ¡Hola! Soy Juan Antonio, un estudiante apasionado por el desarrollo de software y los desafíos creativos. También disfruto mantener un estilo de vida activo, ya sea en el gimnasio o explorando la naturaleza a través del senderismo.
