@@ -7,7 +7,7 @@
 - 📚 **Educación:** Estudiante de Grado Superior (DAM) en el CIDE
 
 ## Sobre mí
-¡Hola! Soy Juan Antonio, un estudiante apasionado por el desarrollo de software y los desafíos creativos. También disfruto mantener un estilo de vida activo, ya sea en el gimnasio o explorando la naturaleza a través del senderismo.
+El deporte me gustó de siempre, de hecho me sigue apasionando. Por eso me formé en ello, y fue clave en el desarrollo de muchas de mis habilidades personales. Creo en el esfuerzo, en la constancia, en el aprendizaje continuo, en la ambición por la mejora continua.Cambié de rumbo porque soy de hacerme preguntas constantemente, y sin dar por sentado nada, siempre ando buscando "mi sitio". La tecnología siempre ha estado ahí, y hoy siento que dentro del sector tecnológico puedo tener una oportunidad como desarrollador, donde conseguir la estabilidad laboral que anhelo y que es la base para la consecución de muchos otros sueños personales.
 
 ### Tecnologías
 - 💻 Java, JavaScript, CSS3, HTML, Github.
